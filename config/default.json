@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "/P1a2s3s4/",
+    "database": "relightdb", 
+    "listPerPage": 10
+}
