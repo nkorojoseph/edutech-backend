@@ -4,7 +4,6 @@
   "description": "Endpoint for all edutech applications",
   "main": "eduendpoint.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon eduendpoint",
     "start": "node eduendpoint"
   },
